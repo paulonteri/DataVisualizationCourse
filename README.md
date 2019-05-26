@@ -20,6 +20,6 @@ I got a [Certificate of Completion](https://www.linkedin.com/in/paulonteri/)
 - Seaborn and Regression Plots
 
 **Maps and Visualizing Geospatial Data**
-- An ntroduction to Folium
+- An introduction to Folium
 - Maps with Markers
 - Choropleth Maps
