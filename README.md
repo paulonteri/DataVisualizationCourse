@@ -1,4 +1,4 @@
-# DataVisualizationCourse
+# Data Visualisation Course
 This is the learning material used in Data Visualization with Python course at [CognitiveClass.ai](https://courses.cognitiveclass.ai/courses/)
 where I mainy worked on the Immigration into Canada dataset.
 
